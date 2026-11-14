@@ -1,0 +1,17 @@
+{
+ "dashboard": "Dashboard",
+ "new_screening": "New Screening",
+ "history": "History",
+ "learn": "Learn",
+ "research": "Research",
+ "settings": "Settings",
+ "greeting": "Hello",
+ "tagline": "Intelligent Eye Screening, Accessible to Every Community.",
+ "start": "Start New Screening",
+ "disclaimer": "AI-assisted screening. This is not a medical diagnosis and needs professional review.",
+ "upload": "Upload retina image",
+ "result_ok": "No obvious signs detected",
+ "result_flag": "Possible signs detected — professional review recommended",
+ "confidence": "Model confidence",
+ "why": "Why did the AI make this assessment?"
+}
